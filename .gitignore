@@ -8,3 +8,4 @@ node_modules/
 dist/
 *.tsbuildinfo
 data/review-queue/*.json
+packages/db/node_modules/

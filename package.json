@@ -11,7 +11,11 @@
     "seed": "tsx scripts/seed.ts"
   },
   "devDependencies": {
-    "tsx": "^4.7.0",
+    "tsx": "^4.21.0",
     "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.1",
+    "drizzle-orm": "^0.30.10"
   }
 }

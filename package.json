@@ -1,0 +1,17 @@
+{
+  "name": "cafe-data",
+  "private": false,
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm --filter web build",
+    "db:generate": "pnpm --filter @cafe-data/db generate",
+    "db:migrate": "pnpm --filter @cafe-data/db migrate",
+    "db:studio": "pnpm --filter @cafe-data/db studio",
+    "extract": "tsx scripts/extract.ts",
+    "seed": "tsx scripts/seed.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.2"
+  }
+}

@@ -12,7 +12,8 @@
 const { Client } = require('pg');
 const fs = require('fs');
 
-const DB_URL = "postgresql://neondb_owner:npg_8Tn2CmvxQLXR@ep-soft-dust-a1qfouhl-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require";
+const DB_URL = process.env.DATABASE_URL;
+if (!DB_URL) { console.error("❌ DATABASE_URL not set"); process.exit(1); }
 
 const CATEGORY_MAP = {
   'grinder': {

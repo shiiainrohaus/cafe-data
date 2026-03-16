@@ -7,10 +7,11 @@
     "studio": "drizzle-kit studio"
   },
   "dependencies": {
-    "drizzle-orm": "^0.30.4",
-    "@neondatabase/serverless": "^0.9.1"
+    "@neondatabase/serverless": "^0.9.5",
+    "drizzle-orm": "^0.30.10",
+    "pg": "^8.20.0"
   },
   "devDependencies": {
-    "drizzle-kit": "^0.20.14"
+    "drizzle-kit": "^0.20.18"
   }
 }

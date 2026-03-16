@@ -1,0 +1,464 @@
+[
+  {
+    "brand": "Brewista",
+    "name": "Target 双层玻璃围糊滤杯",
+    "category": "brewer",
+    "subcategory": "pour over dripper",
+    "modelNumber": "Target Double Wall Glass Dripper",
+    "yearIntroduced": null,
+    "status": "current",
+    "specs": {
+      "material": "double-wall borosilicate glass",
+      "filter_design": "围糊 (cake-style) flat bed",
+      "rib_design": "flat bottom with side ribs",
+      "bypass_reduction": true,
+      "no_bypass_mode": "No Bypass extraction",
+      "filter_paper_gsm": 32,
+      "flow_control": "even water distribution",
+      "compatible_brew": [
+        "filter",
+        "flat-bed"
+      ]
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": null,
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.104",
+    "rawExcerpt": "Target 蛋糕滤杯的轻盈设计，使草取更均匀、更快速、更少损失、更少雾感水。平底滤杯设计让粉层厚度更低，分布更均匀；双层密闭玻璃结构有利于保持温度；把近对称杯状与孔状相结合的均等满锁组合，让滤液里更多种、但均匀的杯适；无接触轻棒可以完全压平近纸低，尽可能减少雾感水，结合更薄的32gsm滤纸，进一步实现近似的No Bypass的均匀草取状态。"
+  },
+  {
+    "brand": "三木崎",
+    "name": "幻·可拆解组合滤杯",
+    "category": "brewer",
+    "subcategory": "pour over dripper",
+    "modelNumber": "幻 Modular Dripper",
+    "yearIntroduced": null,
+    "status": "current",
+    "specs": {
+      "modular": true,
+      "filter_components": 4,
+      "compatible_brew": [
+        "pour-over",
+        "multiple brew methods"
+      ],
+      "u80_filter": "80-degree flat bed, reduces fines, stabilizes extraction",
+      "u60_filter": "60-degree, reduces fines, improves flow",
+      "y_base": "convex shape + 9-point mesh combination, four-direction outflow",
+      "fan_base": "regulates air flow, directs flow to center",
+      "material": "resin"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.104",
+    "rawExcerpt": "全新拆解与组合概念滤杯，四种配件，搭配出多种冲煮手法，满足全场景冲煮需求。U80滤杯：80度杯身，减小上下粉床面积差，使草取更稳定；U60滤杯：60度斜身，降低粉床厚度，冲煮水可更通透和顺；Y底座：凸起弧形肋骨，将肋骨与9颗凸点组合，使液体从四周流出，更增加空气流动；扇底座：如层式中心肋骨，改变水流走向，让水流集中在中心流出。"
+  },
+  {
+    "brand": "Tarachine",
+    "name": "V30 滤杯",
+    "category": "brewer",
+    "subcategory": "pour over dripper",
+    "modelNumber": "V30",
+    "yearIntroduced": 2023,
+    "status": "current",
+    "specs": {
+      "origin": "Japan",
+      "design_inspiration": "sweet potato shape",
+      "filter_angle_deg": 30,
+      "powder_bed_thickness": "thicker than V60",
+      "ribs": "rubber rib design for airflow",
+      "compatible_brew": [
+        "pour-over"
+      ]
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "Japan",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.104",
+    "rawExcerpt": "Tarachine V30滤杯是一款来自日本的创新手冲咖啡滤杯，它的设计灵感来源于甜薯的形状。滤杯的角度为30度，粉层更厚实，萃取时间更充分；橡胶肋骨设计，提高萃取过程中的气体流通度。"
+  },
+  {
+    "brand": "AeroPress",
+    "name": "AeroPress Clear 透明版",
+    "category": "brewer",
+    "subcategory": "aeropress",
+    "modelNumber": "AeroPress Clear",
+    "yearIntroduced": 2023,
+    "status": "current",
+    "specs": {
+      "material": "TRITAN baby-safe BPA-free",
+      "weight_g": 235,
+      "functions": [
+        "press",
+        "filter",
+        "steep"
+      ],
+      "electric_required": false,
+      "portable": true,
+      "wcc_used": true,
+      "suitable_for": [
+        "home",
+        "office",
+        "outdoor"
+      ]
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "USA",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [
+      {
+        "competitionName": "WCC World Coffee Championship",
+        "role": "other"
+      }
+    ],
+    "reviewMentions": [],
+    "tags": [
+      "travel"
+    ],
+    "sourceNote": "Coffee Salon Annual 2025, p.104",
+    "rawExcerpt": "Clear是美国咖啡品牌AEROPRESS在2023年的新款，可结合多种冲泡方式，可化操作。在世界爱乐压大赛上受到各国专业咖啡师与爱好者的青睐。TRITAN婴儿级材料，前值升级，耐高温，不易碎裂；集压、过滤、压力草取的三合一，提升前泡速度，草取的咖啡浓浓粒粒清；重量235g，无需插电，轻巧便携；居家办公、户外游行等多场普适用。"
+  },
+  {
+    "brand": "Bialetti 比乐蒂",
+    "name": "高端系列深邃黑双阀摩卡壶",
+    "category": "brewer",
+    "subcategory": "moka pot",
+    "modelNumber": "Elegance Deep Black Double Valve",
+    "yearIntroduced": 2023,
+    "status": "current",
+    "specs": {
+      "color": "deep black",
+      "material": "food-grade",
+      "dual_valve": true,
+      "pressure_relief_valve": true,
+      "logo": "3D raised logo (updated 2023)",
+      "design": "diamond stone bottom",
+      "viewing_window": "transparent observation window",
+      "filter": "fine filter mesh"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "Italy",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.105",
+    "rawExcerpt": "比乐蒂2023年新款双阀摩卡壶，一体深邃黑色壶身，升级钻石底；新增立体logo设计，更具品质与艺术感。食品级铝材，可直接接触食品；搭空透观窗，可观察萃取实况，视觉与便觉双重享受；专利进压阀，使用更安心；拨动阀门还塞闭可清用水道，可避免仍然堵塞；高精度滤网，萃取更醇正；密密出滤器能有效过滤咖啡渣，咖啡口感更醇正。"
+  },
+  {
+    "brand": "CAFE DE KONA",
+    "name": "旅行家摩卡壶",
+    "category": "brewer",
+    "subcategory": "moka pot",
+    "modelNumber": "Traveler Moka Pot",
+    "yearIntroduced": null,
+    "status": "current",
+    "specs": {
+      "anniversary": "CAFE DE KONA 10th anniversary product",
+      "design": "octagonal traditional",
+      "upper_lower_universal": true,
+      "basket_no1": "size 1, for light roast",
+      "basket_no2": "size 2, for deep roast, large base for stability",
+      "handle": "pressure-relieving pre-load design, no part loss",
+      "travel_friendly": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [
+      "travel"
+    ],
+    "sourceNote": "Coffee Salon Annual 2025, p.105",
+    "rawExcerpt": "推出于CAFE DE KONA成立10周年之际，颠覆了传统八角造型，为摩卡壶爱好者提供了全新的选择。上壶统一，适配两种下壶底座；1号小底座，适合中浅烘咖啡；2号大底座，适合深烘咖啡，户外使用大底座提升便携性；手柄处预留备用压力阀，无须担心部件丢失。"
+  },
+  {
+    "brand": "CoffMeter 咖米特",
+    "name": "M1 咖啡豆含水率密度分析仪",
+    "category": "coffee_analysis_device",
+    "subcategory": "moisture density analyzer",
+    "modelNumber": "M1",
+    "yearIntroduced": null,
+    "status": "current",
+    "specs": {
+      "measures": [
+        "moisture content",
+        "density",
+        "sample temperature"
+      ],
+      "detection_time_s": 2,
+      "moisture_accuracy_pct": 0.2,
+      "density_accuracy_g_per_L": 1,
+      "calibration_standard": "industry standard",
+      "bean_cup_design": "patent",
+      "ota_updates": true,
+      "smart_connectivity": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.112",
+    "rawExcerpt": "CoffMeter M1咖啡豆水分密度仪，含水率、密度、样品温度检测三合一。2秒内即可检测含水率与密度；含水率精度：±0.2%；密度精度：±1g/L；配置行业特殊材质标准物，方便校准使用；配置独家专利设计的豆量杯，搭配人为操作误差导致的测量误差；提高结果的准确性；智能互联，支持OTA远程升级。"
+  },
+  {
+    "brand": "CoffMeter 咖米特",
+    "name": "A1 咖啡烘焙色度仪",
+    "category": "coffee_analysis_device",
+    "subcategory": "roast color meter",
+    "modelNumber": "A1",
+    "yearIntroduced": null,
+    "status": "current",
+    "specs": {
+      "use_cases": [
+        "roasted bean color",
+        "cupping adjustment",
+        "roast profile planning"
+      ],
+      "color_accuracy": 0.5,
+      "resolution": 0.1,
+      "preheat_system": "advanced",
+      "weight_g": 208,
+      "portable": true,
+      "no_computer_required": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.112",
+    "rawExcerpt": "CoffMeter A1是一款轻便式咖啡烘焙色度仪，适用场景广阔，包括咖啡爱好者购买的咖啡豆以调整冲煮手法，到烘焙根据色值以调整烘焙计划和计划等。让专业咖啡测试工具也能进入爱好者的生活。色值精度：±0.5；分辨率：0.1；配备先进温补系统，无需热机即可检测；机身仅208g，便于外出携带。"
+  },
+  {
+    "brand": "顽固",
+    "name": "大磨轨 EK43 磨豆机轨道系统",
+    "category": "accessory",
+    "subcategory": "grinder accessory",
+    "modelNumber": "大磨轨",
+    "yearIntroduced": null,
+    "status": "current",
+    "specs": {
+      "compatible_grinder": "EK43 series",
+      "function": "motorized sliding rail for grinder positioning",
+      "bean_positions": "multiple bean hoppers on single track",
+      "remote_control": true,
+      "versatility": "one grinder serves multiple brew stations",
+      "display": "real-time bean and brew process display"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.112",
+    "rawExcerpt": "顽固专为EK43系列磨豆机开发的磨豆机轨道系统，磨豆机可通过电控移动，适配不同豆仓使用，实现一磨多豆台的方便操作，更直观展示豆豆以及咖啡制作的过程。电控操作磨豆机对应不同豆仓位置；承重力强，利用性高；提高制作咖啡效率。"
+  },
+  {
+    "brand": "Everpure",
+    "name": "MDRO 系列大流量水处理系统",
+    "category": "accessory",
+    "subcategory": "water treatment",
+    "modelNumber": "MDRO Series",
+    "yearIntroduced": null,
+    "status": "current",
+    "specs": {
+      "output": "pure water + optional blended water",
+      "suitable_for": [
+        "tea shops",
+        "cafes",
+        "multiple outlets"
+      ],
+      "filter_stages": "multiple composite filter",
+      "removes": [
+        "heavy metals",
+        "organic matter",
+        "bacteria"
+      ],
+      "tds_adjustable": true,
+      "smart_design": true,
+      "filter_replacement": "quick, easy maintenance"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "USA",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.113",
+    "rawExcerpt": "MDRO系统可提供纯净水，适配混水盒子后也可以提供混水。适配茶饮店、咖啡店等多种场景。多层复合滤芯，有效透除水中重金属和有机物，吸附杂菌，保证用水安全，改善饮品口感。大处理量，高流速，一站式支持全店多个用水点；智能化设计，水质水量数据一目了然；可搭配混水模块，TDS可调；新一级水效，快捷换芯，省水好维护。"
+  },
+  {
+    "brand": "FELLOW",
+    "name": "Carter Infuser Set 卡特冷萃杯",
+    "category": "brewer",
+    "subcategory": "cold brew",
+    "modelNumber": "Carter Infuser Set",
+    "yearIntroduced": null,
+    "status": "current",
+    "specs": {
+      "new_filter": "new mesh infuser",
+      "hot_insulation_hours": 12,
+      "cold_insulation_hours": 24,
+      "sca_capacity": "Carter SCA max",
+      "car_cup_compatible": true,
+      "ceramic_inner": true,
+      "no_coffee_taste_transfer": true,
+      "uses": [
+        "tea",
+        "cold brew",
+        "hot brew"
+      ]
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "USA",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [],
+    "sourceNote": "Coffee Salon Annual 2025, p.113",
+    "rawExcerpt": "延伸经典的卡特杯系列，新增滤网套组，解锁卡特更多的冲泡可能，不论是茶还是冷萃，都可搭配。专用滤网；保温12小时，保冰24小时；SCA最佳容量Carter；车载杯造；陶瓷内胆，咖啡不串味。"
+  },
+  {
+    "brand": "Brewista",
+    "name": "白兰地品鉴杯 世界赛事纪念款",
+    "category": "accessory",
+    "subcategory": "cup",
+    "modelNumber": "WCC Cupping Glass",
+    "yearIntroduced": null,
+    "status": "limited_edition",
+    "specs": {
+      "event": "WCC World Coffee Championship commemorative",
+      "collab": "Yearn Tour",
+      "materials": [
+        "glass",
+        "ceramic"
+      ],
+      "design": "brandy snifter shape",
+      "wide_mouth": true,
+      "aroma_release": "swirl to release aroma",
+      "cupping_guidance": "fill to half for better sensory evaluation"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": null,
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [
+      {
+        "competitionName": "WCC",
+        "role": "other"
+      }
+    ],
+    "reviewMentions": [],
+    "tags": [
+      "limited-edition",
+      "collab"
+    ],
+    "sourceNote": "Coffee Salon Annual 2025, p.113",
+    "rawExcerpt": "Brewista第一款WCC赛事纪念品鉴杯，其器型与Yearn Tour联合打造，推出了玻璃、陶瓷两种材质。闻：杯型肚大嘴口，摇晃咖啡液，可充分释放香气且有效聚拢香气外溢；嗅：杯口外扩，提升入口顺滑感，便于捕捉香气，全面调动嗅觉感官参与品鉴；品：品鉴时，建议装盛至半满处，更有助于提高品鉴感受。"
+  },
+  {
+    "brand": "LilyDrip 利利珠",
+    "name": "OXC01 水仙杯",
+    "category": "accessory",
+    "subcategory": "cup",
+    "modelNumber": "OXC01",
+    "yearIntroduced": 2024,
+    "status": "current",
+    "specs": {
+      "collab": "2024 China Coffee Brewers Cup champion 盛馥鹏",
+      "material": "coarse ceramic",
+      "base": "forget-me-not bump base for aroma activation",
+      "mouth_design": "curved lip for aroma concentration",
+      "dual_mode": "large mouth for stronger flavour, small mouth for cleaner taste"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "priceCnMin": null,
+    "priceCnMax": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "cnDistributor": null,
+    "competitionUsage": [],
+    "reviewMentions": [],
+    "tags": [
+      "collab"
+    ],
+    "sourceNote": "Coffee Salon Annual 2025, p.113",
+    "rawExcerpt": "LilyDrip与2024中国咖啡冲煮大赛冠军盛馥鹏联合打造的咖啡品鉴杯。杯覆较宽，配合底部记忆幕凸块，轻轻摇晃即可激发咖啡的香气；杯颈收窄，聚拢香气；恰到好处的杯口角度，大口饮提升触感，小口饮用风味更清晰；粗陶材质，符合日常饮用习惯。"
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "brand": "Brewista",
+    "name": "Magic Dripper 魔方滤杯",
+    "category": "brewer",
+    "subcategory": "pour over dripper",
+    "specs": {
+      "compatible_shapes": [
+        "V型",
+        "山丘型",
+        "平底型"
+      ],
+      "material": "食品级树脂材料",
+      "bypass_control": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": null,
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.92, #1",
+    "rawExcerpt": "继Target无棱骨双层滤杯之后，Brewista推出无棱骨滤杯四合一组合；可咖啡相合形式，实现棱骨滤通滤，提升无棱骨滤杯可玩性。"
+  },
+  {
+    "brand": "LilyDrip",
+    "name": "利利珠 D6P 百合咖啡滤杯",
+    "category": "brewer",
+    "subcategory": "pour over dripper",
+    "specs": {
+      "features": [
+        "集成高流速分水嘴",
+        "雾化注水操作",
+        "支持极简条件下冲煮"
+      ]
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.92, #2",
+    "rawExcerpt": "历时7年，LilyDrip产品经历\"经典版(2017年)\"\"甜甜圈(2019年)\"\"忘忧草(2022年)\"的演化历程，2024年最新滤杯\"百合\"面世。"
+  },
+  {
+    "brand": "摩诃不思议",
+    "name": "RelaxFruit 滤杯",
+    "category": "brewer",
+    "subcategory": "pour over dripper",
+    "specs": {
+      "material": "天然可降解玉米芯提取物",
+      "rib_design": "横向助骨+纵向阳肋骨",
+      "colors": "多种颜色可选"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.92, #3",
+    "rawExcerpt": "RelaxFruit滤杯使用自然可降解材质玉米芯提取物制作，并有多种颜色可选。"
+  },
+  {
+    "brand": "ORIGAMI",
+    "name": "松珀 CN Limited Edition 中国限定款玄青色",
+    "category": "brewer",
+    "subcategory": "pour over dripper",
+    "specs": {
+      "material": "陶瓷",
+      "filter_types": [
+        "平底",
+        "锥形"
+      ],
+      "edition": "China Limited Edition",
+      "color": "玄青色"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "Japan",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.92, #4",
+    "rawExcerpt": "ORIGAMI定制中国限定款滤杯，为了向中国文化致敬，调配出独一无二的专属釉色。日本三大名陶之一。"
+  },
+  {
+    "brand": "DragonFly 清麻开物",
+    "name": "腾蛇蟠香韵 玄武 FS62 手冲咖啡器具礼盒",
+    "category": "accessory",
+    "subcategory": "gift set",
+    "specs": {
+      "includes": [
+        "玄武FS62滤杯",
+        "棒架架",
+        "棒香香三件器具"
+      ],
+      "filter_design": "全新原创专利咖啡花沟槽",
+      "material_handle": "自中国特有竹编方式花龙编"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.93, #5",
+    "rawExcerpt": "中国原创品牌清麻开物格二零二五乙巳蛇年的诚意之作，包含玄武FS62滤杯、棒架架、棒香香三件器具。"
+  },
+  {
+    "brand": "GX2",
+    "name": "V2 虹吸滤杯",
+    "category": "brewer",
+    "subcategory": "pour over dripper",
+    "specs": {
+      "flow_speed": "重力滴落的2倍",
+      "structure": "无助骨设计",
+      "flow_control": "底部吸管可调长度",
+      "patents": "多国专利"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": null,
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.93, #6",
+    "rawExcerpt": "虹吸的流速是一般重力滴落的2倍，而这也是GX2滤杯名称的由来；虹吸吸力与无助骨构造做出快速过滤与高萃取率。"
+  },
+  {
+    "brand": "April",
+    "name": "Hybrid Brewer",
+    "category": "brewer",
+    "subcategory": "hybrid dripper",
+    "specs": {
+      "modes": [
+        "滴滤",
+        "浸泡"
+      ],
+      "base_separable": true,
+      "colors": "多款颜色可选"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": null,
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.93, #7",
+    "rawExcerpt": "April Hybrid Brewer是April滤杯的全新形态，在April Glass Brewer的基础上增加了浸泡功能，可以在冲煮过程中控制咖啡液是否过出。"
+  },
+  {
+    "brand": "AeroPress",
+    "name": "爱乐压 Premium 铝制版咖啡机",
+    "category": "brewer",
+    "subcategory": "aeropress",
+    "specs": {
+      "material": "铝合金+硼硅玻璃",
+      "functions": [
+        "闷蒸",
+        "过滤",
+        "压力萃取"
+      ],
+      "anodized": true,
+      "heat_resistant_glass": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": null,
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.93, #8",
+    "rawExcerpt": "Premium是AeroPress爱乐压发售的第一款全属和玻璃材质的器具，极具辨识度的造型为咖啡爱好者提供全新的选择。"
+  },
+  {
+    "brand": "Brewista",
+    "name": "3rd Pro 手冲咖啡温控壶",
+    "category": "kettle",
+    "subcategory": "electric gooseneck kettle",
+    "specs": {
+      "power_w": 1500,
+      "temperature_control": "电子温控",
+      "auto_keep_warm": true,
+      "auto_off": true,
+      "new_features": [
+        "新增素艺友好功能",
+        "新增开机自检功能"
+      ]
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": null,
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.94, #9",
+    "rawExcerpt": "Brewista第三代温控壶在控水控温基础上继续升级控程序，这是Brewista进入亚太以来，首次针对咖啡与茶在卖场中的程序升级。"
+  },
+  {
+    "brand": "XIONG&YANG 熊与橘",
+    "name": "XY0610 皮·影 电子温控壶",
+    "category": "kettle",
+    "subcategory": "electric gooseneck kettle",
+    "specs": {
+      "capacity_ml": 600,
+      "power_w": 1500,
+      "heat_time_s": 150,
+      "temperature_control": "数码显示屏",
+      "heating_system": "STRIX英国进口干烧系统",
+      "handle_material": "黑胡桃实木"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.94, #10",
+    "rawExcerpt": "熊与橘于2024年推出的电子温控手冲壶，600ml容量，独特创新零间距构下水设计，冷水优雅，省水利落。"
+  },
+  {
+    "brand": "顽固 镜刃",
+    "name": "M1 手摇磨豆机",
+    "category": "grinder",
+    "subcategory": "hand grinder",
+    "specs": {
+      "burr_size_mm": 42,
+      "burr_type": "锥刀",
+      "burr_material": "S2C890",
+      "adjustment_mm": 0.015,
+      "handle_material": "不锈钢球形握把"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.94, #11",
+    "rawExcerpt": "顽固推出的第一款手摇磨豆机产品，搭配42mm锥刀刀盘。S2C890磨芯，高均匀度研磨；0.015mm/格超精细调节。"
+  },
+  {
+    "brand": "Varia",
+    "name": "EVO 手电一体磨豆机",
+    "category": "grinder",
+    "subcategory": "hybrid hand/electric grinder",
+    "specs": {
+      "burr_size_mm": 38,
+      "burr_type": "锥刀",
+      "burr_material": "HRC67超强硬度热等离子镀钛",
+      "adjustment_mm": 0.01,
+      "motor": "electric + manual dual mode",
+      "charge_time_min": 30,
+      "espresso_shots_per_charge": "8-12",
+      "pourover_shots_per_charge": "20-25"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "New Zealand",
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.94, #12",
+    "rawExcerpt": "EVO是新西兰咖啡器具品牌Varia最新推出的纯金属便携手电一体磨豆机。电动手动双模式二合一；内外纯金属机身。"
+  },
+  {
+    "brand": "EUREKA 尤里卡",
+    "name": "MIGNON ZERO 55S 磨豆机",
+    "category": "grinder",
+    "subcategory": "electric espresso grinder",
+    "specs": {
+      "burr_size_mm": 55,
+      "burr_material": "进口硬化合金钢",
+      "body_material": "全铝铸造",
+      "stepless_adjustment": true,
+      "anti_static": false,
+      "accessories": [
+        "Blow Up豆仓插片"
+      ]
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "Italy",
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.95, #13",
+    "rawExcerpt": "一款专为家庭咖啡爱好者新设计的意式家用磨豆机，继承MIGNON家族设计语言。"
+  },
+  {
+    "brand": "Gemilai 格米莱",
+    "name": "进阶家用磨豆机吉米方杯 G9015C",
+    "category": "grinder",
+    "subcategory": "electric espresso grinder",
+    "specs": {
+      "burr_size_mm": 64,
+      "burr_material": "不锈钢平刀",
+      "hopper_capacity_g": 280,
+      "timer": "单/双杯计时定量出粉",
+      "anti_static": true,
+      "adjustment_steps": 50
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.95, #14",
+    "rawExcerpt": "格米莱方杯G9015C迭代上市，64mm不锈钢平刀经典还续，为进阶\"玩咖\"量身打造，增配别量气吹合与接粉杯。"
+  },
+  {
+    "brand": "MHW-3BOMBER 轰炸机",
+    "name": "航海家 F74 电动磨豆机",
+    "category": "grinder",
+    "subcategory": "electric espresso grinder",
+    "specs": {
+      "burr_size_mm": 74,
+      "burr_type": "锥刀",
+      "power_w": 400,
+      "rpm_range": "800-1600",
+      "grind_modes": 3,
+      "anti_static": true,
+      "stepless_adjustment": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.95, #15",
+    "rawExcerpt": "MHW-3BOMBER轰炸机于2025年全新推出的航海家F74电动磨豆机，配置自研74mm锥钛平刀，三种智能模式可选，全域研磨覆盖不同草取需求。"
+  },
+  {
+    "brand": "Varia",
+    "name": "VS6 电动磨豆机",
+    "category": "grinder",
+    "subcategory": "electric grinder",
+    "specs": {
+      "burr_sizes_mm": [
+        58,
+        63
+      ],
+      "burr_type": "平刀",
+      "motor_w": 300,
+      "rpm_range": "500-1600",
+      "adjustment_mm": 0.05,
+      "material": "全金属无塑料",
+      "optional_burrs": 8
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "New Zealand",
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.95, #16",
+    "rawExcerpt": "来自新西兰咖啡器具品牌Varia，双刀盘系统支持平刀刀互换，搭配可调节转速。官方提供8款可另选刀盘。"
+  },
+  {
+    "brand": "黑家",
+    "name": "ZP-1 KN71 磨豆机",
+    "category": "grinder",
+    "subcategory": "electric espresso grinder",
+    "specs": {
+      "burr_size_mm": 71,
+      "burr_type": "锥刀",
+      "display": "黑色注塑镜斜外观",
+      "adjustment_steps": "1-10精度",
+      "wpm_display": true,
+      "anti_static": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.96, #17",
+    "rawExcerpt": "黑家ZP-1 KN71磨豆机，黑家推出的71mm锥刀磨豆机，兼具意式与冲者的研磨而推，具有快所充定力磨整与磁吸出粉口，可快速清理刀盘和通残粉。"
+  },
+  {
+    "brand": "Acaia",
+    "name": "Orbit 自动磨豆机",
+    "category": "grinder",
+    "subcategory": "electric espresso grinder",
+    "specs": {
+      "compatible_burrs": [
+        "Mazzer 33M",
+        "SSP Multi-Purpose",
+        "SSP Lab Sweet V3"
+      ],
+      "colors": [
+        "黑白灰3种颜色"
+      ],
+      "adjustment_mm": 0.75,
+      "app_control": "Orbit app",
+      "design_collab": "Weber Workshops"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": null,
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.96, #18",
+    "rawExcerpt": "Acaia Orbit是与Weber Workshops合作设计的电动磨豆机，可连接Acaia LUNAR咖啡秤，精准均量咖啡磨度。"
+  },
+  {
+    "brand": "TIMEMORE 泰摩",
+    "name": "BRICKS 01S 积木意式电动磨豆机",
+    "category": "grinder",
+    "subcategory": "electric espresso grinder",
+    "specs": {
+      "burr_size_mm": 40,
+      "burr_type": "锥刀",
+      "burr_model": "S2C专利",
+      "adjustment_mm": 0.01,
+      "compatible_modes": [
+        "意式",
+        "摩卡壶",
+        "手冲"
+      ],
+      "anti_static": true,
+      "magnetic_hopper": true,
+      "award": "2024 GOOD DESIGN AWARD BEST 100"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.96, #19",
+    "rawExcerpt": "BRICKS 01S荣获2024 GOOD DESIGN AWARD BEST 100，机身采用全金属材质，打造黑白双色，精巧极简设计，不占空间，易拆卸好打理。"
+  },
+  {
+    "brand": "WENDOUGEE 温豆季",
+    "name": "MILO II 精品咖啡研磨机",
+    "category": "grinder",
+    "subcategory": "electric grinder",
+    "specs": {
+      "burr_size_mm": 64,
+      "burr_type": "平刀",
+      "display": "升级LCD小圆屏",
+      "motor": "无刷电机",
+      "rpm_range": "200-1000",
+      "data_integration": "DATA咖啡机无缝协作",
+      "auto_adjust_grind": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.96, #20",
+    "rawExcerpt": "MILO II是温豆季推出的电动磨豆机，拥有微米级数字调控系统，精准检测刀盘间距。通过智能联动可以与DATA咖啡机无缝协作。"
+  },
+  {
+    "brand": "OPTION-O",
+    "name": "LAGOM mini 2 便携小型电动磨豆机",
+    "category": "grinder",
+    "subcategory": "portable electric grinder",
+    "specs": {
+      "power_input": "USB Type-C, PD3.0+",
+      "max_power_w": 100,
+      "auto_off": true,
+      "stepless_adjustment": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": null,
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.97, #21",
+    "rawExcerpt": "作为OPTION-O品牌经典LAGOM mini第一代的延续升级；LAGOM mini 2秉承\"小身体 大本事\"的产品特质，续推三大产品亮点，精小型电动磨豆机的研磨体验进一步提升。"
+  },
+  {
+    "brand": "Porsche x La Marzocco",
+    "name": "Pico 咖啡磨豆机",
+    "category": "grinder",
+    "subcategory": "electric espresso grinder",
+    "specs": {
+      "motor": "低噪音高品质无刷式",
+      "dose_modes": [
+        "预设出粉",
+        "手动研磨"
+      ],
+      "single_dose_mode": true,
+      "magnetic_catch_cup": true,
+      "anti_spill": true,
+      "collab": "Porsche x La Marzocco"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "Italy",
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.97, #22",
+    "rawExcerpt": "Porsche x La Marzocco Pico意式咖啡磨豆机使用了与保时捷车身颜色相同的板岩色，印有醒目的联名标志。操作简便，品质出众。"
+  },
+  {
+    "brand": "Allround",
+    "name": "A1 牛魔王磨豆机",
+    "category": "grinder",
+    "subcategory": "commercial espresso grinder",
+    "specs": {
+      "burr_size_mm": 83,
+      "burr_material": "商用食品级进口",
+      "hopper_capacity_kg": 1.25,
+      "display": "LCD",
+      "dose_modes": [
+        "定量",
+        "双份连续出粉"
+      ],
+      "quick_release_burr": true,
+      "heat_system": "散热系统+双研磨系统"
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": null,
+    "availableInCn": null,
+    "sourceNote": "Coffee Salon Annual 2025, p.97, #23",
+    "rawExcerpt": "商用机级意式磨豆机，搭配高耐用食品级进口83mm刀盘，具有低残粉及静电优化设计，满足高杯量出品的散热系统与双研磨系统。"
+  },
+  {
+    "brand": "XIONG&YANG 熊与杨",
+    "name": "XYSW01 影武士电动磨豆机",
+    "category": "grinder",
+    "subcategory": "electric grinder",
+    "specs": {
+      "burr_size_mm": 48,
+      "burr_type": "锥刀",
+      "material": "全不锈钢",
+      "surface_treatment": "PVD/镀镍喷砂表面处理",
+      "motor": "高性能无刷电机",
+      "noise_reduction": true
+    },
+    "priceMin": null,
+    "priceMax": null,
+    "priceCurrency": null,
+    "countryOfOrigin": "China",
+    "availableInCn": true,
+    "sourceNote": "Coffee Salon Annual 2025, p.97, #24",
+    "rawExcerpt": "影武士是熊与杨武士系列设计延伸的首款电动产品，全不锈钢材质的家用性能电动磨豆机，搭配了48mm锥刀刀盘。"
+  }
+]
